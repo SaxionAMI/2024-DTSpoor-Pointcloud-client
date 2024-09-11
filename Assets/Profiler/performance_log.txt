@@ -1,0 +1,279 @@
+Test Date: 08/09/2024 18:39:55
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Test Date: 08/09/2024 18:40:20
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Test Date: 08/09/2024 18:41:12
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 167.2276
+Min FPS: 14.26892
+Max FPS: 203.5458
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 165.666
+Min FPS: 112.7396
+Max FPS: 207.3914
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 158.7781
+Min FPS: 72.65277
+Max FPS: 239.4005
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+Test Date: 08/09/2024 18:45:45
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 167.2021
+Min FPS: 12.25321
+Max FPS: 208.1339
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 167.8354
+Min FPS: 124.8533
+Max FPS: 207.1852
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 159.1227
+Min FPS: 86.91344
+Max FPS: 226.4698
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+Test Date: 08/09/2024 18:49:20
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 145.0627
+Min FPS: 7.645862
+Max FPS: 216.9244
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 144.7153
+Min FPS: 83.21822
+Max FPS: 218.9238
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 143.6379
+Min FPS: 85.92764
+Max FPS: 218.074
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+Test Date: 08/09/2024 18:52:20
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 143.0571
+Min FPS: 7.099505
+Max FPS: 223.5636
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 143.1733
+Min FPS: 74.54787
+Max FPS: 214.7628
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 143.5665
+Min FPS: 74.63243
+Max FPS: 226.5313
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+
+
+////// STATIC ///////
+Test Date: 08/09/2024 19:10:02
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Test Date: 08/09/2024 19:10:33
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Test Date: 08/09/2024 19:11:32
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 153.9916
+Min FPS: 14.34187
+Max FPS: 209.4987
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 164.7451
+Min FPS: 107.356
+Max FPS: 206.6457
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 141.759
+Min FPS: 55.85157
+Max FPS: 211.4836
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+Test Date: 08/09/2024 19:14:26
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 166.7867
+Min FPS: 12.14249
+Max FPS: 199.6526
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 163.2367
+Min FPS: 99.4095
+Max FPS: 215.8009
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 154.4765
+Min FPS: 77.56567
+Max FPS: 221.0238
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+Test Date: 08/09/2024 19:17:22
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 143.6343
+Min FPS: 8.852612
+Max FPS: 209.3758
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 129.0131
+Min FPS: 66.76236
+Max FPS: 207.5895
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 129.1428
+Min FPS: 62.04782
+Max FPS: 220.658
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
+Test Date: 08/09/2024 19:20:06
+Device name: DESKTOP-S5EPMT2 
+Device GPU: NVIDIA GeForce RTX 3060 Laptop GPU 
+Device CPU: 12th Gen Intel(R) Core(TM) i7-12700H 
+Device OS: Windows 11  (10.0.22631) 64bit 
+Battery status: Full 
+
+Average FPS: 149.8055
+Min FPS: 6.061219
+Max FPS: 209.9826
+Memory Usage Increase: 1 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 1 out of 3 
+---------------------------------
+Average FPS: 168.3914
+Min FPS: 133.1203
+Max FPS: 199.1357
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 2 out of 3 
+---------------------------------
+Average FPS: 168.4307
+Min FPS: 123.4705
+Max FPS: 218.4837
+Memory Usage Increase: 0 MB
+Number of vertices: 0  
+Test duration: 60 seconds 
+Test iteration: 3 out of 3 
+---------------------------------
